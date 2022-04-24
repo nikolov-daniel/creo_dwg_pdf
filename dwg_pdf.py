@@ -26,6 +26,7 @@
 #if parameter doesn't exist added 0 value for poz parameter
 #made 'erase not displayed' on demand
 
+#test
 
 import os
 from datetime import datetime
