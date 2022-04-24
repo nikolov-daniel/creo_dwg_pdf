@@ -13,4 +13,3 @@ Recommended:
 - Have ONLY drawings that you need in working directory or workspace!
 - if parameter 'poz' doesn't exist in the part or assembly of the drawing, it's considered 0!
 
-##test
